@@ -1,4 +1,4 @@
-# HOSPITL MANAGEMENT SYSTEM with GUI
+# HOSPITAL MANAGEMENT SYSTEM with GUI
 
 Hospital management system includes modules for managing patient information, scheduling appointments, managing medical records, 
 tracking billing and invoicing, and managing inventory. It may also include modules for managing clinical processes, 
